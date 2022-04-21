@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0o4
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# .NET
+- 🌱 I’m currently learning C# .NET/Unity
 - 📫 How to reach me
 Telegram: https://t.me/reygrau
 <!---
