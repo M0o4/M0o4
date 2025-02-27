@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M0o4
-- 👀 I’m interested in Game Development/ Web Development
-- 🌱 I’m currently a Middle Angular Developer
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently a Middle Software Engineer
 - 📫 How to reach me
 Telegram: https://t.me/reygrau
 
